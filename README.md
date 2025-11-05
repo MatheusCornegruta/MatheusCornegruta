@@ -20,19 +20,19 @@ SPA • componentização • estado no cliente (Context/localStorage) • mobil
 ## 🚀 Projetos em Destaque
 
 ### 1) True Company (Landing Page)
-- **Live:** https://truecompany-mc.vercel.app  
+- **Live:** https://truecompany.vercel.app  
 - **Repo:** https://github.com/MatheusCornegruta/truecompany
 
 ### 2) InovaDash (Dashboard)
-- **Live:** https://inovadash-mc.vercel.app  
+- **Live:** https://inovadash.vercel.app  
 - **Repo:** https://github.com/MatheusCornegruta/inovadash
 
 ### 3) Todo App (SPA)
-- **Live:** https://todoist-mc.vercel.app  
+- **Live:** https://to-doist-pessoal.vercel.app  
 - **Repo:** https://github.com/MatheusCornegruta/todoist
 
 ### 4) TStore (E-commerce UI)
-- **Live:** https://tstore-mc.vercel.app  
+- **Live:** https://tstore-full.vercel.app  
 - **Repo:** https://github.com/MatheusCornegruta/tstore
 
 ---
