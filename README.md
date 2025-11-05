@@ -9,7 +9,7 @@
 
 ---
 
-## 🔧 Stack & Palavras-chave
+## 🔧 Stacks
 **React • TypeScript • TailwindCSS • React Router • Vite • Git/GitHub • Vercel • HTML5 • CSS3**  
 SPA • componentização • estado no cliente (Context/localStorage) • mobile-first • **a11y** • **SEO básico** • CI/CD • versionamento semântico • padrões de código
 
@@ -17,22 +17,27 @@ SPA • componentização • estado no cliente (Context/localStorage) • mobil
 
 ---
 
-## 🚀 Projetos em destaque
-- **True Company** — landing institucional **responsiva** com **UI/UX** e **SEO básico**  
-  Live: https://truecompany-mc.vercel.app • Código: https://github.com/MatheusCornegruta/truecompany
+## 🚀 Projetos em Destaque
 
-- **InovaDash** — **dashboard** com **Recharts**, cards de métricas e layout modular  
-  Live: https://inovadash-mc.vercel.app • Código: https://github.com/MatheusCornegruta/inovadash
+### 1) True Company (Landing Page)
+- **Live:** https://truecompany-mc.vercel.app  
+- **Repo:** https://github.com/MatheusCornegruta/truecompany
 
-- **Todo App** — SPA com **autenticação simulada**, **rotas privadas** (React Router) e **persistência** em localStorage  
-  Live: https://todoist-mc.vercel.app • Código: https://github.com/MatheusCornegruta/todoist
+### 2) InovaDash (Dashboard)
+- **Live:** https://inovadash-mc.vercel.app  
+- **Repo:** https://github.com/MatheusCornegruta/inovadash
 
-- **TStore** — UI de **e-commerce** com animações de hover e **grid responsivo**  
-  Live: https://tstore-mc.vercel.app • Código: https://github.com/MatheusCornegruta/tstore
+### 3) Todo App (SPA)
+- **Live:** https://todoist-mc.vercel.app  
+- **Repo:** https://github.com/MatheusCornegruta/todoist
+
+### 4) TStore (E-commerce UI)
+- **Live:** https://tstore-mc.vercel.app  
+- **Repo:** https://github.com/MatheusCornegruta/tstore
 
 ---
 
-## 🎓 Certificações (recorte)
+## 🎓 Certificações 
 HTML5 (básico/avançado) • Inovando com CSS • Introdução ao JavaScript •  
 POO • Lógica de Programação • Python (básico)
 
